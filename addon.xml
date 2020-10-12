@@ -11,9 +11,12 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="de_DE">SoundCloud – Musik- und Podcast-Streaming-Plattform</summary>
         <summary lang="en_GB">SoundCloud – Music and podcast streaming platform</summary>
+        <summary lang="es_ES">SoundCloud: plataforma de transmisión de música y podcasts</summary>
         <description lang="de_DE">SoundCloud ist eine Musik- und Podcast-Streaming-Plattform, mit der Du Millionen von Songs aus der ganzen Welt anhören kannst.</description>
 		<description lang="en_GB">SoundCloud is a music and podcast streaming platform that lets you listen to millions of songs from around the world.</description>
+		<description lang="es_ES">SoundCloud es una plataforma de transmisión de música y podcasts que te permite escuchar millones de canciones de todo el mundo.</description>
         <disclaimer lang="en_GB">This plugin is not official, approved or endorsed by SoundCloud.</disclaimer>
+        <disclaimer lang="es_ES">Este complemento no es oficial, ni está aprobado ni respaldado por SoundCloud.</disclaimer>
         <platform>all</platform>
         <license>MIT</license>
         <forum>https://forum.kodi.tv/showthread.php?tid=206635</forum>
